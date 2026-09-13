@@ -1,2 +1,8 @@
-BCA Data-Science student 
-Currently exploring Python,AI/ML,Data-Science
+
+BCA Data Science student. Exploring AI/ML & Data Science
+Currently Learning
+- Python
+- Data Science
+- AI/ML
+- FastAPI
+- AWS
